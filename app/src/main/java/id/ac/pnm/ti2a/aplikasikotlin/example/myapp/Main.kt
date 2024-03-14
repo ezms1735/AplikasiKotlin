@@ -20,4 +20,5 @@ fun makeFish() {
 
 fun main (){
     buildAquarium()
+    makeFish()
 }
